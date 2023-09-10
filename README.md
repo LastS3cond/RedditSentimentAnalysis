@@ -6,4 +6,4 @@ Relevant code for webscraping, cleaning, training and testing is in webscraped_i
 
 In order to run it, one will need to go to reddit's website and request developers use of its API. After doing so, put your developer information within the relevant_data method. After doing so, you will be free to run the software!
 
-Some further improvements I will be working on is code clean-up, webscraping and saving a practice dataset, and more complex sentiment analysis (angry, happy, sad).
+Some further improvements I will be working on is code clean-up, webscraping and saving a practice dataset (comments_save file), and more complex sentiment analysis (angry, happy, sad).
