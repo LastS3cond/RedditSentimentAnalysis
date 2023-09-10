@@ -75,11 +75,11 @@ def relevant_data(subreddit, word_of_interest):
 
     #Logs into Reddit
     reddit = praw.Reddit(
-        client_id="cwduRY3F066SDFU1wzlV7Q",
-        client_secret="w46roD2lBrOp3fR3Hm5o_NcfcmTang",
-        password="tooC0mpl1cat3d-?",
-        user_agent="Sentiment Analysis Bot test by u/Sentim3nt",
-        username="Sentim3nt",
+        client_id="[Private]",
+        client_secret="[Private]",
+        password="[Private]",
+        user_agent="[Private]",
+        username="[Private]",
     )
     relevant_comments = []
     post_count = 0
